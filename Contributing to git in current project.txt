@@ -1,0 +1,28 @@
+Contributing
+
+Currently we are having master and feature branch:
+
+    feature branch will have all the latest code that on which all teams will be contributing.
+    master branch will act as our backup.
+
+    Note: You can't push to master or feature branch direclty.
+
+Steps to add your code to feature or master branch:
+
+    Create a new branch with name as your task name. Ex ORD-1234.
+
+    Push your branch to remote repository i.e GITHUB.
+    Raise a PR of your branch to feature branch.
+    If you have conflicts please resolve the conflicts and again push the changes to GITHUB. No need to raise a new PR your old PR will be present and will reflect your new changes.
+    Please assign it to a Automation team member as they only have the access to merge a PR.
+
+    Note: After you assign a PR to automation team member please mail or ping him as currently we are not getting mails from GITHUB.
+
+    Create a Jenkins job for your automation test case if you need to run that test case from Jenkins.
+
+Things to remember before raising PR
+
+    Your code is well indented.
+    Your xml and java files are present in the correct directory i.e xml file in src/test/resources/<functionality-section-folder>/<file-name>.xml and its java file in src/test/java/<functionality-section-package>/<file-name>.java.
+    Your code change does not have any impact on the existing code.
+    After raising PR inform the person to whom you have assigned it to.

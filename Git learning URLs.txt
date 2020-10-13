@@ -1,0 +1,14 @@
+Starting point for learning git was udacity course that i took through 
+
+step1. https://classroom.udacity.com/courses/ud123
+step2. login using lakras@gmail.com account
+
+https://www.freecodecamp.org/news/how-to-use-git-efficiently-54320a236369/
+
+https://medium.com/@talgoldfus/better-understanding-gits-work-flow-in-order-to-properly-deal-with-merge-conflicts-part-i-760a366fc997
+
+https://blog.logrocket.com/the-git-workflow-you-need-how-to-deal-with-multiple-teams-in-a-single-repository-faf5bb17a6e4/
+
+https://stackoverflow.com/questions/7712177/how-to-create-branch-and-push-to-server
+
+https://guides.github.com/activities/hello-world/
