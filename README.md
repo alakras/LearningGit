@@ -10,3 +10,5 @@ verify your modificaiton in file are present in git repository on web.
 
 Commit is last thing on git, but to get things on github we need to do push.
 committement in not last thing, you have to push yourself to git thing done :)
+
+This is in exercise branch.
