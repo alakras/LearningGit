@@ -12,3 +12,6 @@ https://blog.logrocket.com/the-git-workflow-you-need-how-to-deal-with-multiple-t
 https://stackoverflow.com/questions/7712177/how-to-create-branch-and-push-to-server
 
 https://guides.github.com/activities/hello-world/
+
+Git hub actions - dev ops
+https://www.youtube.com/watch?v=R8_veQiYBjI
